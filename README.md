@@ -9,6 +9,14 @@ Email: sibakatlego0092@gmail.com
 
 Linkedin: [Katlego KGOSI](linkedin.com/in/katlego-kgosi-269195196)
 
+My current and in Progess Projects:
+
+1. Capstone-Project [Performing Brain Tumor classification and Segmentation - `Still PRIVATE`](https://github.com/0092kat/Capstone-Project)
+2. Data Cleaning [Movies Dataset - `Still PRIVATE`](https://github.com/0092kat/Data_Cleaning-Movies_DataSet)
+
+Am also Documenting my complete projects so that i can upload in GitHub
+
+
 <!---
 0092kat/0092kat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
