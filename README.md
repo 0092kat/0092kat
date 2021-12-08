@@ -7,7 +7,7 @@
 
 Email: sibakatlego0092@gmail.com
 
-Linkedin: [Katlego KGOSI](linkedin.com/in/katlego-kgosi-269195196)
+Linkedin: [Katlego KGOSI](https://www.linkedin.com/in/katlego-kgosi-269195196/)
 
 My current and in Progess Projects:
 
