@@ -11,7 +11,7 @@ Linkedin: [Katlego KGOSI](https://www.linkedin.com/in/katlego-kgosi-269195196/)
 
 My current and in Progess Projects:
 
-1. Capstone-Project [Performing Brain Tumor classification and Segmentation - `Still PRIVATE`](https://github.com/0092kat/Capstone-Project)
+1. Capstone-Project [Performing Brain Tumor classification and Segmentation - `Now Public`](https://github.com/0092kat/Capstone-Project)
 2. Data Cleaning [Movies Dataset - `Still PRIVATE`](https://github.com/0092kat/Data_Cleaning-Movies_DataSet)
 
 Am also Documenting my complete projects so that i can upload in GitHub
