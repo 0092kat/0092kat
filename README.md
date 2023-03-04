@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Katlego KGOSI, I’m @0092kat in GitHub
-- 🌱 I'am currently Studying my Hnours Degree in Data Science at Sol Plaatje University, kimberley in South Africa
+- 🌱 I'am currently Studying my Honours Degree in Data Science at Sol Plaatje University, kimberley in South Africa
 - 👀 I’m interested in sports (formula 1, Soccer, Basketball, NFL, cricket), and in academics am interested in Robotics, Machine learning, and Data Science, and data analytics 
 - 🌱 I’m currently learning learning coursera online courses
 
